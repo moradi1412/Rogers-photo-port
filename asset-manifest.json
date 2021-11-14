@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Rogers-photo-port/static/css/main.5d195ea4.chunk.css",
+    "main.js": "/Rogers-photo-port/static/js/main.fd1b715b.chunk.js",
+    "main.js.map": "/Rogers-photo-port/static/js/main.fd1b715b.chunk.js.map",
+    "runtime-main.js": "/Rogers-photo-port/static/js/runtime-main.b89b2b08.js",
+    "runtime-main.js.map": "/Rogers-photo-port/static/js/runtime-main.b89b2b08.js.map",
+    "static/js/2.e3890e8f.chunk.js": "/Rogers-photo-port/static/js/2.e3890e8f.chunk.js",
+    "static/js/2.e3890e8f.chunk.js.map": "/Rogers-photo-port/static/js/2.e3890e8f.chunk.js.map",
+    "index.html": "/Rogers-photo-port/index.html",
+    "precache-manifest.b16e01c69a0d6f2bd03787a74861795b.js": "/Rogers-photo-port/precache-manifest.b16e01c69a0d6f2bd03787a74861795b.js",
+    "service-worker.js": "/Rogers-photo-port/service-worker.js",
+    "static/css/main.5d195ea4.chunk.css.map": "/Rogers-photo-port/static/css/main.5d195ea4.chunk.css.map",
+    "static/js/2.e3890e8f.chunk.js.LICENSE.txt": "/Rogers-photo-port/static/js/2.e3890e8f.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Rogers-photo-port/static/media/0.c0bc02a0.jpg",
+    "static/media/1.jpg": "/Rogers-photo-port/static/media/1.e05d88b5.jpg",
+    "static/media/2.jpg": "/Rogers-photo-port/static/media/2.efb308ab.jpg",
+    "static/media/3.jpg": "/Rogers-photo-port/static/media/3.ff79cea1.jpg",
+    "static/media/4.jpg": "/Rogers-photo-port/static/media/4.9030776b.jpg",
+    "static/media/cover-image.jpg": "/Rogers-photo-port/static/media/cover-image.6a2b7a16.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b89b2b08.js",
+    "static/js/2.e3890e8f.chunk.js",
+    "static/css/main.5d195ea4.chunk.css",
+    "static/js/main.fd1b715b.chunk.js"
+  ]
+}
